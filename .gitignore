@@ -13,6 +13,9 @@ results/
 *~
 .DS_Store
 
+# Notes
+Mes_notes
+
 # Python
 __pycache__/
 *.py[cod]
