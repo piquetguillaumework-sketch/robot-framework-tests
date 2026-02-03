@@ -6,6 +6,6 @@ Library    SeleniumLibrary
 Ouvrir Chrome et vérifier titre
     Open Browser    https://www.google.com    chrome
     Title Should Be    Google
-    Sleep    10
+    Sleep    3
     Close Browser
 
